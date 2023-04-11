@@ -1,2 +1,2 @@
 #kiroz
-run 'flask run'
+#run 'flask run'
